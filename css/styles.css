@@ -1,0 +1,13 @@
+
+body {
+	max-width: 860px;
+	margin: 0 auto;
+}
+
+div label {
+	display: block;
+}
+
+form div {
+	margin: 0.5em;
+}
